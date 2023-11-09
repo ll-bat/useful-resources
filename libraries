@@ -1,2 +1,5 @@
 # Image restoration 
 https://github.com/xinntao/Real-ESRGAN
+
+# For converting func/class/... to CLI (python package) 
+fire 
